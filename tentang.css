@@ -1,19 +1,19 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
+    font-family: Tahoma, sans-serif;
+    background-color: #f5f5f5;
     margin: 0;
 }
 
-gambar-utama {
+gambar-tentang {
     width: 100%;
-    max-height: 350px;
-    object-fit: cover;
+    max-width: 600px;
     margin: 20px 0;
+    border: 3px solid #2e8b57;
     border-radius: 8px;
 }
 
 nav {
-    background-color: #003366;
+    background-color: #2e8b57;
     padding: 15px;
 }
 
@@ -21,7 +21,6 @@ nav a {
     color: white;
     margin-right: 15px;
     text-decoration: none;
-    font-weight: bold;
 }
 
 .container {
@@ -29,14 +28,13 @@ nav a {
     margin: 20px auto;
 }
 
-h1 {
-    color: #003366;
+h1, h2 {
+    color: #2e8b57;
 }
 
 footer {
-    background-color: #003366;
+    background-color: #2e8b57;
     color: white;
     text-align: center;
     padding: 10px;
 }
-

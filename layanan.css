@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #fffaf0;
+    margin: 0;
+}
+
+gambar-layanan {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 15px auto;
+    border-radius: 10px;
+}
+
+nav {
+    background-color: #8b4513;
+    padding: 15px;
+}
+
+nav a {
+    color: #ffffff;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+h1, h2 {
+    color: #8b4513;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+footer {
+    background-color: #8b4513;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
